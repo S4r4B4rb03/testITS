@@ -1,0 +1,10 @@
+martedì 19 settembre 2023
+
+Titolo
+Oggetto
+Tocca o fai clic sul testo segnaposto e inizia a digitare per sostituire l'elenco di note con le tue.
+Se inizi una frase con un trattino o con un numero o una lettera seguiti da un punto, Pages rileva che stai creando un elenco.
+Usa il tasto Tabulatore per aumentare il rientro.
+Usa il tasto Invio per aggiungere un nuovo punto all'elenco.
+Premi il tasto Invio due volte di seguito per terminare l'elenco.
+Puoi visualizzare e modificare le note su Mac, iPad, iPhone o su iCloud.com.
